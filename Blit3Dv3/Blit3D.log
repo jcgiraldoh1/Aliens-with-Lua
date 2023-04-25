@@ -1,0 +1,8 @@
+[2022-11-30 13:23:04][Info]	Context reports FSAA is available with 8samples
+[2022-11-30 13:23:04][Info]	Requesting FSAA with 8samples
+[2022-11-30 13:23:04][Info]	2 monitors detected, running on primary one
+[2022-11-30 13:23:08][Info]	Renderer: NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2
+[2022-11-30 13:23:08][Info]	OpenGL version supported: 4.6.0 NVIDIA 526.86
+[2022-11-30 13:23:08][Info]	Creating TextureManager with 31 maximum bound textures
+[2022-11-30 13:23:18][Info]	Terminated Blit3D
+[2022-11-30 13:23:18][Info]	TextureManager destroyed
